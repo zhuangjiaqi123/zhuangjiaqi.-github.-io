@@ -1,0 +1,20 @@
+
+
+.pic img{
+	display: block;
+	width: 100%;
+}
+
+.header p{
+	font-size: 15px;
+	position: absolute;
+	top: 20px;
+	right:80px;
+	color:white;
+}
+.title-text{font-size: 18px; color: black;
+	}
+.firstTr{background: black;opacity: 1;color: black;text-align:center ;}
+	table tr td{border: 1px solid #fff;line-height: 50px;padding-left: 50px;}
+
+
